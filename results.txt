@@ -1,0 +1,16 @@
+javac DemoIncrement.java ... ok
+java DemoIncrement ... ok
+Line 1 variable values ... ok
+Line 2 i++ means ... ok
+Line 3 ++i means ... ok
+PASSED: DemoIncrement.java
+----
+----
+----
+----
+----
+----
+----
+----
+--- RESULT: ---
+Your score is 1 / 7.5
